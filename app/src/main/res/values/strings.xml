@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SpaceX</string>
+    <string name="main_bottom_bar_item">Main</string>
+    <string name="favorite_bottom_bar_item">Favorite</string>
+    <string name="empty_launch_details">N/A</string>
+    <string name="error_message">Something is wrong</string>
 </resources>
